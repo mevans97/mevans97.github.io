@@ -13,8 +13,6 @@ Through this portfolio, I aim to demonstrate the skills and knowledge I have gai
 - [Artifact 2 : Algorithms and Data Structures](#project-algorithms-and-data-structures)
 - [Artifact 3 : Databases](#project-databases)
 - [Education](#education)
-- [Employment](#workplace)
-- [GitHub Pages](#github-pages)
 
 ---
 
@@ -85,18 +83,3 @@ This refined the integrity and reliability of the system’s backend, allowing i
 
 ---
 
-## Employment
-
-- **Liberty Mutual**  
-  Currently working at Liberty Mutual, participating in their Tech Start program
-
----
-
-## 🌐 GitHub Pages
-
-This ePortfolio is hosted using GitHub Pages. You can visit the live portfolio here:  
-👉 [https://mevans97.github.io](https://mevans97.github.io)
-
----
-
-> _Thank you for visiting my portfolio! Feel free to connect or reach out via GitHub or LinkedIn._
