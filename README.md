@@ -81,7 +81,6 @@ This refined the integrity and reliability of the system’s backend, allowing i
 
 ## 🎓 Education
 
-- Associate Degree in Health Science  
 - Bachelor’s Degree in Computer Science with a Concentration in Software Engineering
 
 ---
