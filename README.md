@@ -1,7 +1,7 @@
 # Michael Evans | CS-499 ePortfolio
 
 ## 📘 Introduction
-Hello, my name is Michael Evans, and I have been pursuing a Computer Science degree at SNHU. This GitHub Pages account serves as an electronic portfolio to showcase my work and chronicle the progress of my final project for CS-499. Completing this capstone project marks the end of an important chapter in my academic journey, culminating in the achievement of my Bachelor’s degree in Computer Science.
+Hello, my name is Michael Evans, and I have been pursuing a Computer Science degree at SNHU. This electronic portfolio showcases the work of my final project for CS-499. Completing this capstone project marks the end of an important chapter in my academic journey, culminating in the achievement of my Bachelor’s degree in Computer Science.
 
 Through this portfolio, I aim to demonstrate the skills and knowledge I have gained during my studies and reflect my readiness to enter the field as a software engineer.
 
@@ -9,11 +9,11 @@ Through this portfolio, I aim to demonstrate the skills and knowledge I have gai
 
 ## 📑 Table of Contents
 - [Personal Code Review](#personal-code-review)
-- [Project: Software Design and Engineering](#project-software-design-and-engineering)
-- [Project: Algorithms and Data Structures](#project-algorithms-and-data-structures)
-- [Project: Databases](#project-databases)
+- [Artifact 1 : Software Design and Engineering](#project-software-design-and-engineering)
+- [Artifact 2 : Algorithms and Data Structures](#project-algorithms-and-data-structures)
+- [Artifact 3 : Databases](#project-databases)
 - [Education](#education)
-- [Workplace](#workplace)
+- [Employment](#workplace)
 - [GitHub Pages](#github-pages)
 
 ---
@@ -28,13 +28,13 @@ While much of my work has been completed independently, I have learned to value 
 
 ---
 
-## 🎥 Personal Code Review
+## Personal Code Review
 
 This section includes a personal walkthrough of my code, reflecting on how I’ve improved as a developer. I highlight strengths, growth areas, and lessons learned throughout my academic and personal development journey.
 
 ---
 
-## 📌 Project: Software Design and Engineering
+## Artifact 1 : Software Design and Engineering
 
 For this enhancement, I transformed a basic budgeting tool into a full-stack mobile-first application using the MERN stack (MongoDB, Express, React Native, Node.js). The improvements include:
 
@@ -50,7 +50,7 @@ These updates demonstrate my ability to develop scalable, user-friendly software
 
 ---
 
-## 📌 Project: Algorithms and Data Structures
+## Artifact 2 : Algorithms and Data Structures
 
 This enhancement focused on application logic improvements, including:
 
@@ -64,7 +64,7 @@ The result is a system that remains responsive and scalable even with larger dat
 
 ---
 
-## 📌 Project: Databases
+## Artifact 3 : Databases
 
 The third enhancement focused on database improvements:
 
@@ -85,10 +85,10 @@ This refined the integrity and reliability of the system’s backend, allowing i
 
 ---
 
-## 💼 Workplace
+## Employment
 
-- **Patt V. Mack, Inc.**  
-  Currently contributing to software and application development with a focus on delivering reliable, user-oriented solutions.
+- **Liberty Mutual**  
+  Currently working at Liberty Mutual, participating in their Tech Start program
 
 ---
 
