@@ -7,7 +7,7 @@ Through this portfolio, I aim to demonstrate the skills and knowledge I have gai
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Personal Code Review](#personal-code-review)
 - [Artifact 1 : Software Design and Engineering](#project-software-design-and-engineering)
 - [Artifact 2 : Algorithms and Data Structures](#project-algorithms-and-data-structures)
@@ -16,7 +16,7 @@ Through this portfolio, I aim to demonstrate the skills and knowledge I have gai
 
 ---
 
-## 🧠 Professional Self-Assessment
+## Professional Self-Assessment
 
 Over the course of my studies in the Computer Science program, I have honed my technical skills and learned how to present my work in ways that reflect my professional goals and values. Developing my ePortfolio has been a pivotal experience in showcasing my strengths and demonstrating my readiness to advance in the field.
 
