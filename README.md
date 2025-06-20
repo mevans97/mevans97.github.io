@@ -26,10 +26,9 @@ While much of my work has been completed independently, I have learned to value 
 
 ---
 
-## Personal Code Review
+## Pre-Update Code Review
 
-This section includes a personal walkthrough of my code, reflecting on how I’ve improved as a developer. I highlight strengths, growth areas, and lessons learned throughout my academic and personal development journey.
-
+Here lies a review of the code for the project I will be working on. It reviews the codebase as it was before the 3 artifact improvements : Click Me [https://youtu.be/1Rih6nK-rag]
 ---
 
 ## Artifact 1 : Software Design and Engineering
