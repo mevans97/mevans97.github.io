@@ -9,11 +9,12 @@ Through this portfolio, I aim to demonstrate the skills and knowledge I have gai
 
 ## Professional Self-Assessment
 
-Over the course of my studies in the Computer Science program, I have honed my technical skills and learned how to present my work in ways that reflect my professional goals and values. Developing my ePortfolio has been a pivotal experience in showcasing my strengths and demonstrating my readiness to advance in the field.
+Throughout my journey in the Computer Science program, I have significantly sharpened my technical capabilities while learning to align my work with both industry expectations and my long-term career goals. One of the most impactful aspects of this experience has been developing my ePortfolio—a tool that not only showcases my skills but also reflects the depth of my growth as a software engineer. This collection of work was instrumental in helping me secure a position as a Junior Software Engineer at Liberty Mutual, a milestone that marks the beginning of my professional career.
 
-Through ongoing coursework, I’ve adopted best practices for writing maintainable code, refined my approach to solving complex problems with data structures and algorithms, and gained a deeper understanding of databases, security, and scalable system design.
+Through rigorous coursework, I’ve adopted modern best practices for writing clean, maintainable code, strengthened my ability to solve complex problems using efficient algorithms and data structures, and deepened my understanding of key concepts such as database architecture, application security, and scalable system design. These skills have allowed me to build real-world applications with confidence and clarity.
 
-While much of my work has been completed independently, I have learned to value collaboration and communication—especially in the context of building software that’s secure, efficient, and usable. These ePortfolio artifacts represent how I’ve grown as a developer and how I’ve learned to build solutions that are thoughtful, strategic, and user-centered.
+While much of my academic work was completed independently, I’ve also come to recognize the critical role of collaboration and clear communication—particularly when building secure, user-friendly software in fast-paced environments. Each artifact in my ePortfolio reflects a deliberate effort to create thoughtful, strategic, and technically sound solutions. I believe this portfolio not only illustrates my technical competence, but also highlights my readiness to contribute meaningfully to professional software teams and to continue learning and growing in the field.
+
 
 ---
 
