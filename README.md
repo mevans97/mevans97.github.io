@@ -3,7 +3,7 @@
 ## 📘 Introduction
 Hello, my name is Michael Evans, and I have been pursuing a Computer Science degree at SNHU. This electronic portfolio showcases the work of my final project for CS-499. Completing this capstone project marks the end of an important chapter in my academic journey, culminating in the achievement of my Bachelor’s degree in Computer Science.
 
-Through this portfolio, I aim to demonstrate the skills and knowledge I have gained during my studies and reflect my readiness to enter the field as a software engineer.
+Through this portfolio, I aim to demonstrate the skills and knowledge I have gained during my studies and reflect my readiness to enter the field as a software engineer. I start by doing a code review of an old project. I then improve the project in three key areas stated in the table of contents below. 
 
 ---
 
