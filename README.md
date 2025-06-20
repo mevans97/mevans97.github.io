@@ -43,7 +43,7 @@ For this enhancement, I transformed a basic budgeting tool into a full-stack mob
 
 These updates demonstrate my ability to develop scalable, user-friendly software that meets real-world usability needs.
 
-🔗 _Project Link: [View Project](#)_
+🔗 _Project Link: [View Project](https://github.com/mevans97/personal-finance-mern)_
 
 ---
 
@@ -57,7 +57,7 @@ This enhancement focused on application logic improvements, including:
 
 The result is a system that remains responsive and scalable even with larger datasets. These improvements showcase practical problem-solving and performance optimization with JavaScript data structures and array methods.
 
-🔗 _Project Link: [View Project](#)_
+🔗 _Project Link: [View Project](https://github.com/mevans97/personal-finance-mern)_
 
 ---
 
@@ -72,7 +72,7 @@ The third enhancement focused on database improvements:
 
 This refined the integrity and reliability of the system’s backend, allowing it to scale more effectively and remain secure under concurrent usage.
 
-🔗 _Project Link: [View Project](#)_
+🔗 _Project Link: [View Project](https://github.com/mevans97/personal-finance-mern)_
 
 ---
 
